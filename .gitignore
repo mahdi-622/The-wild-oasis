@@ -1,0 +1,8 @@
+# Ignore Next.js build files
+.next/
+.next/cache/
+.next/cache/webpack/
+.next/cache/webpack/server-production/
+
+# Ignore node_modules (you should use package.json & package-lock.json instead)
+node_modules/
